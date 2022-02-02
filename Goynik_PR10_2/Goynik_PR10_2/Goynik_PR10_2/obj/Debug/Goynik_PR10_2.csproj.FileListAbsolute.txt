@@ -1,0 +1,11 @@
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\bin\Debug\Стариков_Д198_ПР10_2.exe.config
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\bin\Debug\Стариков_Д198_ПР10_2.exe
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\bin\Debug\Стариков_Д198_ПР10_2.pdb
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Goynik_PR10_2.csproj.AssemblyReference.cache
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Goynik_PR10_2.csproj.SuggestedBindingRedirects.cache
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Goynik_PR10_2.Form1.resources
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Стариков_Д198_ПР10_2.Properties.Resources.resources
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Goynik_PR10_2.csproj.GenerateResource.cache
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Goynik_PR10_2.csproj.CoreCompileInputs.cache
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Стариков_Д198_ПР10_2.exe
+E:\Dowload\Goynik_PR10_2\Goynik_PR10_2\Goynik_PR10_2\obj\Debug\Стариков_Д198_ПР10_2.pdb
